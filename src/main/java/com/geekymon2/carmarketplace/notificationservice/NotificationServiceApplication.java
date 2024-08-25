@@ -1,4 +1,4 @@
-package com.geekymon2.carmarketplace.notification_service;
+package com.geekymon2.carmarketplace.notificationservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

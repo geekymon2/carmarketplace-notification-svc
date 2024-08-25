@@ -71,7 +71,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<version>${spring-boot.version}</version>
 				<configuration>
-					<mainClass>com.geekymon2.carmarketplace.notification_service.NotificationServiceApplication</mainClass>
+					<mainClass>com.geekymon2.carmarketplace.notificationservice.NotificationServiceApplication</mainClass>
 				</configuration>
 				<executions>
 					<execution>

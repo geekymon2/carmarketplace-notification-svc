@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="NotificationService" type="Application" factoryName="Application">
-    <option name="MAIN_CLASS_NAME" value="com.geekymon2.carmarketplace.notification_service.NotificationServiceApplication" />
+    <option name="MAIN_CLASS_NAME" value="com.geekymon2.carmarketplace.notificationservice.NotificationServiceApplication" />
     <module name="notification-service" />
     <extension name="net.ashald.envfile">
       <option name="IS_ENABLED" value="true" />
